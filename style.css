@@ -105,7 +105,7 @@ html {
     ),
     url("https://i.ibb.co/vhPh1WT/glenn-van-de-wiel-9s-I3d-v1e-Nk-unsplash-1.png");
   width: 100%;
-  height: 60vh;
+  height: 60dvh;
   background-position: center;
   background-repeat: no-repeat;
   display: flex;
@@ -127,7 +127,7 @@ html {
 }
 .interbody2 {
   width: 100%;
-  height: 50vh;
+  height: 50dvh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -145,7 +145,7 @@ html {
 .interbody3 {
   background-image: url("https://i.ibb.co/vjzgFXc/karizmatic.png");
   width: 100%;
-  height: 60vh;
+  height: 60dvh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -179,7 +179,7 @@ html {
 }
 .interbody4 {
   width: 100%;
-  height: 50vh;
+  height: 50dvh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -202,7 +202,7 @@ html {
 
 .interbody5{
   width: 100%;
-  height: 45vh;
+  height: 45dvh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -231,9 +231,7 @@ html {
    
 
 @media only screen and (min-width:641px) and (max-width:768px){
-  .interbody4{
-    gap: 0;
-  }
+  
 }
 
 @media only screen and (min-width: 350px) and (max-width: 640px) {
